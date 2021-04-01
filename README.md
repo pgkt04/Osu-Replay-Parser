@@ -1,5 +1,5 @@
 # Osu-Replay-Parser
-Quick replay information parser I wrote based on Osu! Documentation
+Quick replay information parser I wrote based on Osu! documentation
 https://osu.ppy.sh/help/wiki/osu!_File_Formats/Osr_(file_format)
 
 ## Compiling
